@@ -1,0 +1,57 @@
+Copyright (c) 2026 Jan Čejka. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE – DiscountBundle for Kimai
+
+This software and its source code are the exclusive property of Jan Čejka
+("Licensor"). No part of this software may be reproduced, distributed,
+modified, sublicensed, or transmitted in any form or by any means — electronic,
+mechanical, photocopying, recording, or otherwise — without the prior written
+permission of the Licensor, except as expressly permitted below.
+
+FREE VERSION
+
+Without a license key, you may install and use the software free of charge on
+Kimai installations owned or operated by you, within the limits of the free
+version enforced by the software (a limited number of discounts per month,
+licensed features disabled).
+
+GRANT OF LICENSE
+
+Upon purchasing a valid license from the Licensor (via the Licensor's online
+store), you ("Licensee") are granted, for the duration of the paid license
+period, a non-exclusive, non-transferable right to:
+
+  1. Install and use the licensed version of the software on one (1) production
+     Kimai installation and one (1) non-production (test or staging) Kimai
+     installation owned or operated by the Licensee.
+  2. Make backup copies solely for archival purposes.
+
+When the license period ends, the software falls back to the free version.
+Invoices created with the software remain unaffected.
+
+RESTRICTIONS
+
+The Licensee may NOT:
+
+  - Redistribute, resell, sublicense, or otherwise transfer the software or
+    any rights therein to any third party.
+  - Modify, adapt, translate, reverse-engineer, decompile, or disassemble the
+    software, or circumvent its license checks.
+  - Remove or alter any proprietary notices, labels, or marks on the software.
+  - Use the software on behalf of third parties (e.g., as a hosted service)
+    without a separate written agreement with the Licensor.
+
+THIRD-PARTY SOFTWARE
+
+The software is a plugin for Kimai (https://www.kimai.org), which is licensed
+separately under the GNU Affero General Public License v3. This license does
+not apply to Kimai itself.
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
